@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <META charset ="UTF-8"/>
+        <title>Novo HTML</title>
+    </head>
+
+    <body>
+            <h1>Aprendendo Html!</h>
+
+            <p>HTML é uma das linguagens que utilizamos <br>para desenvolver websites.</p>
+            <p>O acrônimo HTML vem do inglês e significa Hypertext Markup Language ou <br>em português Linguagem de Marcação de Hipertexto.</p>
+
+            <ul>
+                <li>Html</li>
+                <li>css</li>
+            </ul>
+
+
+            <h1>Aprender</h>
+            <h2>Codificar</h>
+            <h3>Site</h>
+
+
+
+        <section id="Aprendendo Html">
+            <img src="html.jpg"  alt="html">
+            <p>Para escrever documentos HTML não é necessário mais do que um editor <br>de texto simples e conhecimento dos códigos que compõem a linguagem.
+            </p>
+        </section>
+
+        <section id="Usando folhas de estilo">
+            <img src="css.jpg"  alt="css">
+            <p>As Folhas de Estilo têm por finalidade devolver à <br>HTML o propósito inicial da linguagem.
+            </p>
+        </section>
+
+            <a href="https://code.org/">Code</a>
+
+            <a href="https://www.codecademy.com/pt">Codecademy</a>
+
+        <nav id="menu-principal">
+            <ul class="menu">
+	            <li><a href="http://politica.estadao.com.br/">Menu</a></li>
+	            <li><a href="https://www.codecademy.com/pt">Html</a></li>
+	            <li><a href="http://www.maujor.com/w3ctuto/firstcss.html">Css</a></li>
+	            <li><a href="http://code.org/">Aprender</a></li>  
+            </ul>
+        </nav>   
+
+                <p><strong>Para criar uma página em HTML (Hyper Text Markup Language) <br>só precisa de um editor simples como o Bloco de Notas do Windows (notepad). 
+                </strong></p>
+                <p>Se  você é um usuário do Android há vários anos, certamente já se deparou <br>com alguma situação em que gostaria de atualizar seu smartphone e não conseguia.
+                </p>
+                <p>Graças à sua iniciativa, o Linux está presente em centenas de milhares de servidores, <br>computadores pessoais e dispositivos portáteis em todo o mundo.
+                </p>
+
+
+        <footer>© COPYRIGHT 2016 - Desenvolvido por Marisa Gusmão.
+        </footer>
+
+    </body>
+
+</html>
+
+
+
+
